@@ -1,4 +1,4 @@
-﻿
+﻿using StudentApp.StudyGroupFeature.Entities;
  namespace TestApp
 {
     public class StudyGroup
